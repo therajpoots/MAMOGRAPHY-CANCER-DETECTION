@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+BUS-UCLM Breast ultrasound lesion segmentation dataset/
+Dataset_BUSI_with_GT/
+bus_uclm_separated/
+classification_dataset/
+unet_dataset/
+models/
+outputs/
+plots/
+scratch/
+mammography_platform.db
+New folder/
